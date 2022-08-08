@@ -1,0 +1,128 @@
+body {
+  color: #40514E;
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+h1 {
+font-family: 'Sacramento', cursive;
+font-size: 3rem;
+color:#66BFBF;
+font-weight: normal;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+color:#66BFBF;
+font-weight: normal;
+padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width:4%;
+margin: 100px auto 100px auto;
+}
+p {
+  line-height: 2;
+}
+.a-pro{
+  font-size: 2.625rem;
+}
+.top-container {
+background-color: #E4F9F5;
+margin: 0 auto 0 auto;
+}
+.middle-container {
+  background-color: #D4F6CC;
+margin: 0 auto 0 auto;
+padding-top: 30px;
+}
+.contact-msg{
+width: 40%;
+}
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.bottom-cloud{
+  position: absolute;
+top:150px;
+margin-top: 150px;
+}
+.intro{
+
+
+}
+a{
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+margin:10px 20px;
+text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.btn {
+  font-size:20px;
+  font-family: 'Montserrat', sans-serif;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#ffffff;
+  border-color:#599bb3;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow: 0px 10px 14px -7px #276873;
+  text-shadow: 0px 1px 0px #3d768a;
+  background:linear-gradient(#11cdd4, #408c99);
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(#408c99, #599bb3);
+}
+
+.top-cloud {
+  padding-top: 50px;
+  position: relative;
+  left:350px;
+  top: 10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.writing{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size:0.75rem;
+  padding: 20px 0;
+}
+.skin-care{
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+margin-right: 30px;
+}
+.writing-description{
+  clear: left;
+}
+.skin-care-description{
+  clear: right;
+}
+.contact-msg{
+padding-left: 400px;
+}
